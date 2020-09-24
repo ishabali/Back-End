@@ -1,4 +1,4 @@
-# Back-End - Canine-Cupid-v-2-0
+# Back-End - Canine-Cupid-2-0
 
 Quick Link to Deployed App: http://canine-cupid-2-0.s3-website.us-east-2.amazonaws.com/login
 
