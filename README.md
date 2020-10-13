@@ -12,7 +12,7 @@ Canine Cupid Ver. 2 developed By: Dmitrii Zverev, Logan McCann and Isha Bali.
 
 ![](/canine-cupid-2-0.gif)
 
-Concept: Coronavirus has impacted our world in many ways, one of which being the recent skyrocket in animal adoption rates. Shelters everywhere have been cleared by people looking for four-legged friends, and while staying home with them 24/7 was initially great, our pups are getting just as stir-crazy as we are. That’s where Canine Cupid comes in. Canine Cupid is the dog-matching app you and your pup have been waiting for. Just make an account outlining your dog’s likes, dislikes, and personality traits to match them with a friend that is just as special as they are. Grab your mask, your pup’s leash and head out for a (socially-distanced) playdate!
+Concept: Coronavirus has impacted our world in many ways, one of which being the recent skyrocket in animal adoption rates. Shelters everywhere have been cleared by people looking for four-legged friends, and while staying home with them 24/7 was initially great, our pups are getting just as stir-crazy as we are. That’s where Canine Cupid comes in. Canine Cupid is the dog-matching app you and your pup have been waiting for. Just make an account outlining your dog’s likes, dislikes, and personality traits to match them with a friend that is just as special as they are. Grab your mask, your pup’s leash and head out for a (socially-distanced) playdate...
  
 Technologies used (Backend) - MongoDb, Mongoose, bcrypt, Heroku, MLAB, MVC, Travis CI, NPM Backend
 
