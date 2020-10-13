@@ -1,6 +1,6 @@
 # Back-End - Canine-Cupid-2-0
 
-Quick Link to Deployed App: http://canine-cupid-2-0.s3-website.us-east-2.amazonaws.com/login
+Quick Link to Deployed App : http://canine-cupid-2-0.s3-website.us-east-2.amazonaws.com/login
 
 Quick link for Backend - http://canine-cupid-v2.herokuapp.com/status
 
